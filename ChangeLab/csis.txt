@@ -1,0 +1,11 @@
+Cost:                21.17
+Tendered:            100.00
+- - - - - - - - - - - - - - -
+Twenty-Dollar Bills: 3 
+Ten-Dollar Bills:    1 
+Five-Dollar Bills:   1 
+One-Dollar Bills:    3 
+Quarters:            3 
+Dimes:               0 
+Nickels:             1 
+Pennies:             3 
